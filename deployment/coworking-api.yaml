@@ -29,7 +29,7 @@ spec:
     spec:
       containers:
         - name: coworking-api
-          image: 473106994322.dkr.ecr.us-east-1.amazonaws.com/coworking-app:0.0.1
+          image: 473106994322.dkr.ecr.us-east-1.amazonaws.com/project-coworking:0.0.1
           imagePullPolicy: Always
           livenessProbe:
             httpGet:
