@@ -20,7 +20,7 @@ spec:
         - name: POSTGRES_USER
           value: postgres_user
         - name: POSTGRES_PASSWORD
-          value: 7%5%46#*9uZ%
+          value: Hola!234.
         ports:
         - containerPort: 5432
         volumeMounts:
